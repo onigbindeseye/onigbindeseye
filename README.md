@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seye</h1>
+<h1 align="center">Hi 👋, I'm Oluseye</h1>
 <h3 align="center">A passionate full-stack web developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onigbindeseye&label=Profile%20views&color=0e75b6&style=flat" alt="onigbindeseye" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LovingSitter - A Dog Sitter App](https://github.com/hatchways/team-bruschetta)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing (AWS)**
 
 - 👯 I’m looking to collaborate on [Altrest Tenant Management App](https://github.com/seyeonigbinde/Altrest-Tenant-App-FrontEnd-2)
 
