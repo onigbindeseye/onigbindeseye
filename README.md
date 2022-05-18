@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LovingSitter - A Dog Sitter App](https://github.com/hatchways/team-bruschetta)
 
-- 🌱 I’m currently learning **Cloud Computing (AWS)**
+- 🌱 I’m currently learning **AWS Solution Architect and Python**
 
 - 👯 I’m looking to collaborate on [Altrest Tenant Management App](https://github.com/seyeonigbinde/Altrest-Tenant-App-FrontEnd-2)
 
