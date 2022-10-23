@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/sstephen_coding" target="blank"><img src="https://img.shields.io/twitter/follow/SeyeOni_Codes?logo=twitter&style=for-the-badge" alt="SeyeOni_Codes" /></a> </p>
 
-- 🔭 I’m currently working on [LovingSitter - A Dog Sitter App](https://github.com/hatchways/team-bruschetta)
+- 🔭 I collaborated on [LovingSitter - A Dog Sitter App](https://github.com/hatchways/team-bruschetta)
 
-- 🌱 I’m currently learning **AWS Solutions Architect and Python**
+- 🌱 I’m currently learning **AWS Solutions Architect**
 
 - 👯 I’m looking to collaborate on [Altrest Tenant Management App](https://github.com/seyeonigbinde/Altrest-Tenant-App-FrontEnd-2)
 
-- 👨‍💻 All of my projects are available at my [Portfolio App](https://seyeonigbinde.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio App](https://oluseye.vercel.app/)
 
 - 💬 Ask me about **React, Node.js**
 
 - 📫 How to reach me **seyeonigbinde@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13ALMid63SgxQXlSufka4k0A0T8XXSYhv/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1uVEwoHTVicqzQ-Tp6sqneOm5uZbV4c16lCiTihOtjoM/edit?usp=sharing)
 
 - ⚡ Fun fact is that **I am a Chelsea FC fan**
 
