@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onigbindeseye&label=Profile%20views&color=0e75b6&style=flat" alt="onigbindeseye" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sstephen_coding" target="blank"><img src="https://img.shields.io/twitter/follow/SeyeOni_Codes?logo=twitter&style=for-the-badge" alt="SeyeOni_Codes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SeyeOni_Codes" target="blank"><img src="https://img.shields.io/twitter/follow/SeyeOni_Codes?logo=twitter&style=for-the-badge" alt="SeyeOni_Codes" /></a> </p>
 
 - 🔭 I collaborated on [LovingSitter - A Dog Sitter App](https://github.com/hatchways/team-bruschetta)
 
