@@ -7,13 +7,13 @@
 
 - 🔭 I collaborated on [LovingSitter - A Dog Sitter App](https://github.com/hatchways/team-bruschetta)
 
-- 🌱 I’m currently learning **AWS Solutions Architect**
+- 🌱 I’m currently learning **AWS DevOps**
 
 - 👯 I’m looking to collaborate on [Altrest Tenant Management App](https://github.com/seyeonigbinde/Altrest-Tenant-App-FrontEnd-2)
 
 - 👨‍💻 All of my projects are available at my [Portfolio App](https://oluseye.vercel.app/)
 
-- 💬 Ask me about **React, Node.js**
+- 💬 Ask me about **React, AWS Solutions Architect**
 
 - 📫 How to reach me **seyeonigbinde@gmail.com**
 
