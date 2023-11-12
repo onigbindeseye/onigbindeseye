@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oluseye Onigbinde</h1>
-<h3 align="center">A passionate full-stack web developer from Nigeria</h3>
+<h3 align="center">A passionate Software Developer and DevOps Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onigbindeseye&label=Profile%20views&color=0e75b6&style=flat" alt="onigbindeseye" /> </p>
 
@@ -15,15 +15,15 @@
 
 - 💬 Ask me about **React, AWS Solutions Architect**
 
-- 📫 How to reach me **seyeonigbinde@gmail.com**
+- 📫 How to reach me **seyeonigbinde87@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1uVEwoHTVicqzQ-Tp6sqneOm5uZbV4c16lCiTihOtjoM/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1rRTIjhjqzcBMswiArqm6UKg2c8cvlIn_pg5i_WjLXco/edit?usp=sharing)
 
 - ⚡ Fun fact is that **I am a Chelsea FC fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SeyeOni_Codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SeyeOni_Codes" height="30" width="40" /></a>
+<a href="https://twitter.com/SeyeintheCloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SeyeOni_Codes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/onigbindeseye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onigbindeseye" height="30" width="40" /></a>
 </p>
 
